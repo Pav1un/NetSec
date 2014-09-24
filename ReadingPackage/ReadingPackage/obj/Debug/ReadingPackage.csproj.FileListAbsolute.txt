@@ -1,0 +1,42 @@
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe.config
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.pdb
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.dll
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.dll
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.xml
+C:\Diplom\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.xml
+C:\Diplom\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.exe
+C:\Diplom\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.pdb
+C:\Diplom\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.csprojResolveAssemblyReference.cache
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe.config
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.exe
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.pdb
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.pdb
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.xml
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.xml
+C:\Users\Pav1un\Desktop\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.csprojResolveAssemblyReference.cache
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe.config
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.exe
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.pdb
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.pdb
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.xml
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.xml
+H:\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe.config
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.exe
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.pdb
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.pdb
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.xml
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.xml
+C:\Users\user\Desktop\Diplom\ver 1.0.1\ReadPacket\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe.config
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.exe
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.pdb
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.exe
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\bin\Debug\ReadingPackage.pdb
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\bin\Debug\PacketDotNet.xml
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\bin\Debug\SharpPcap.xml
+C:\Users\user\Desktop\Study\Безопасность_вычислительных_сетей-2014-09-22\ReadingPackage\ReadingPackage\obj\Debug\ReadingPackage.csprojResolveAssemblyReference.cache
